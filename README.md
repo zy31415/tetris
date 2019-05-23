@@ -1,3 +1,3 @@
-Tetris
+# Tetris
 
 Written in Scala/Javafx.
